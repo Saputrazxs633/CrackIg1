@@ -140,7 +140,7 @@ def change_theme():
 	time.sleep(2)
 	prints(Panel("[white]berhasil mengganti tema, silahkan jalankan ulang scriptnya python run.py",style=f"{color_table}"));time.sleep(2);exit()
 
-USN="Mozilla/5.0 (Linux; Android 7.0; SM-G935F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.91 Mobile Safari/537.36 Instagram 57.0.0.9.80 Android (24/7.0; 420dpi; 1080x1920; samsung; SM-G935F; hero2lte; samsungexynos8890; pt_BR; 119875229)"
+USN="Mozilla/5.0 (Linux; Android 9; FIG-LX1 Build/HUAWEIFIG-L31; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/81.0.4044.117 Mobile Safari/537.36 Instagram 139.0.0.33.121 Android (28/9; 540dpi; 1080x2032; HUAWEI; FIG-LX1; HWFIG-H; hi6250; fr_FR; 211399337)"
 USN="Mozilla/5.0 (Linux; Android 6.0; M5 Note Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, seperti Gecko) Versi/4.0 Chrome/44.0.2403.128 Mobile Safari/537.36 Instagram 37.0.0.21.97 Android (23/6.0; 480dpi; 1080x1920; Meizu; Catatan M5; M5Catatan; mt6755; ru_RU; 98288242)"
 
 internal,external,success,checkpoint,loop,following,lisensikuni,lisensiku=[],[],[],[],0,[],[],['sukses']
